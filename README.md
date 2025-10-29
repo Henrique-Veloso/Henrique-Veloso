@@ -41,7 +41,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Henrique-Veloso/Henrique-Veloso/output/github-snake.svg" alt="snake animation" />
-</p>
